@@ -1,6 +1,6 @@
 # py2gotify
 
-A simple script to send message to a Gotify Server. 
+A simple script to send message to a [gotify/server](https://github.com/gotify/server)
 
 Easy to use. 
 
